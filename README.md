@@ -1,3 +1,3 @@
-코딩 강좌 clone coding
+강의 clone coding
 
 https://codingapple.com/course/next-js/
